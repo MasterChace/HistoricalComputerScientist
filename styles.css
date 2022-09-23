@@ -12,7 +12,6 @@ body
         background-color : navy;
         width : 100%;
         height : 75px; 
-        justify-content : center; 
         align-items : center;
     }
 
@@ -21,6 +20,7 @@ body
         font-size : 25px;
         color : white; 
         font-weight : 500;
+        margin : 100px;
     }
 
 
@@ -340,4 +340,65 @@ body
         height : 60%;
         width : 200px;
         border : 3px solid grey;
+    }
+
+.content-page-1
+    {
+        display : flex;
+        flex-wrap : wrap;
+        width : 100%;
+        height : 500px;
+        border : 3px solid grey;
+    }
+
+.content-page-1-top
+    {
+        height : 50%;
+        width : 100%;
+        display : flex;
+        align-items : center;
+        justify-content : center;
+    }
+
+.content-page-1-bottom
+    {
+        display : flex;
+        justify-content : center;
+        height : 250px;
+        width : 100%;
+    }
+
+.paragraph-text
+    {
+        display : flex;
+        background-color : grey;
+        text-align : center;
+        color : black;
+        font-size : 15px;
+        height : 75%;
+        width : 500px; 
+    }
+
+
+
+.content-page-1-top img
+    {
+        max-height : 200px;
+        max-width : 177px;
+    }
+
+.center-image img
+    {
+        padding-left : 100px;
+        padding-right : 100px;
+    }
+
+.links
+    {
+        padding-left : 45%;
+    }
+.links li
+    {
+        display : inline;
+        padding : 5px;
     }

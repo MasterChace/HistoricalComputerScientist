@@ -29,3 +29,12 @@ of artifical intelligence. Alan Turing was always ahead, as he pondered
 the possibility of a computer becoming human, we are now advancing artifical
 Intelligence. 
 
+6-8 Sentences:
+
+Throughout Alan Turing's life he managed to have many amazing accomplishments. He originally had got a
+degree in mathematics and then found a job as a codebreaker working for the British government. This is
+where he got the idea for his machine that would eventually break the German enigma. The breaking of Enigma
+gave the Allies a upperhand against the Axis which would save tens, hundreds of thousands, or more lives.
+After his career working with the British government, he began designing many computers for different
+companies. Eventually he began to be a pioneer for Artificial Intelligence as some of his work on it is still
+studied today. 
