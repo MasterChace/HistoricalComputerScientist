@@ -415,14 +415,15 @@ body
 .paragraph-text
     {
         display : flex;
-        background-color : grey;
+        background-color : navy;
         text-align : center;
-        color : black;
+        color : white;
         font-size : 15px;
         height : 75%;
         width : 500px; 
         padding-top : 20px;
         font-family : sans-serif;
+        font-style: italic;
     }
 
 
