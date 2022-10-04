@@ -45,7 +45,7 @@ body
     {
         height : 100%;
         width : 33%;
-        border-right : 3px solid grey;
+        
         margin-right : 10px;
     }
 
@@ -109,7 +109,7 @@ body
     {
         height : 100%;
         width : 33%;
-        border-left : 3px solid grey;
+        
     }
 
 .quote-box
@@ -454,3 +454,7 @@ body
     {
         animation: rotation 2s infinite linear;
     }
+
+    table, th, td {
+        border:1px solid black;
+      }
